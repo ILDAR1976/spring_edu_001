@@ -1,0 +1,15 @@
+Mon Aug 07 17:19:27 MSK 2017 : —етевой сервер Apache Derby Network Server - 10.10.1.1 - (1458268) запущен и готов принимать соединени€ на порту 1527 на {3} 
+----------------------------------------------------------------
+Mon Aug 07 17:19:28 MSK 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015d-bd10-94ff-000002f1eda0 
+on database directory F:\projects\java\workspace\spring_edu_01\todo with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/leshey/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.13.1.1/29c42babe5c5463c6eea45487d3cfbfe8348ccd1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_141-b15
+user.dir=F:\projects\java\workspace\spring_edu_01
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+Mon Aug 07 17:19:39 MSK 2017 : —етевой сервер Apache Derby - 10.10.1.1 - (1458268) завершение работы в {2}
